@@ -1,4 +1,4 @@
-# apnacollege.-demo
+# apnacollege-demo
 This is my first Git Repository.
 <br>
-Author- ATUL RAJ
+Author- ATUL RAJ (apna college)
